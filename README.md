@@ -28,3 +28,5 @@ Have demo of the programs emulation done
 
 January 11, 2019 Deliverables:
 Finish up code in github, prep for presentation.
+
+Portions of this project are reproduced and/or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.
